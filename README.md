@@ -6,7 +6,6 @@
 **Project:** HisabDo  
 **Day:** 12  
 **Testing Focus:** Validation, Negative Testing & Defect Verification  
-**Date:** 01 September 2026
 
 ---
 
